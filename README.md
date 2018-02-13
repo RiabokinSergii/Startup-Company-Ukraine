@@ -1,3 +1,3 @@
-# Startup-Company-Ukraine
+# Startup Company Ukraine
 
 Ukrainian translation Startup Company
